@@ -40,7 +40,7 @@
 
 ### Решение 2
 
-[Ссылка на коммит](https://github.com/AyratTukay/git/commit/fbf9cb5f66a7053b0a90157cc58c073db9ace8c9#diff-bc37d034bad564583790a46f19d807abfe519c5671395fd494d8cce506c42947)
+[Ссылка на коммит](https://github.com/AyratTukay/git/commit/496dc24ee89625041c171bdc97131668cb730f58)
 ---
 
 ### Задание 3
