@@ -62,6 +62,9 @@
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
 
+### Решение 3
+
+![Скрин 1](img/img1.png)
 ---
 ## Дополнительные задания* (со звёздочкой)
 
